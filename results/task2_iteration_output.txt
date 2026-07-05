@@ -1,0 +1,61 @@
+xvect =
+
+    0.7500
+    0.2500
+
+at iteration 1, we have [x, y] =
+   -5.6095
+   -5.3173
+
+at iteration 2, we have [x, y] =
+   -9.2165
+   -8.3486
+
+at iteration 3, we have [x, y] =
+  -13.4619
+  -11.5713
+
+at iteration 4, we have [x, y] =
+  -18.2945
+  -15.0112
+
+at iteration 5, we have [x, y] =
+  -23.5653
+  -18.6448
+
+at iteration 6, we have [x, y] =
+  -29.1462
+  -22.4334
+
+at iteration 7, we have [x, y] =
+  -34.9495
+  -26.3402
+
+at iteration 8, we have [x, y] =
+  -40.9170
+  -30.3369
+
+at iteration 9, we have [x, y] =
+  -47.0089
+  -34.4030
+
+at iteration 10, we have [x, y] =
+  -53.1977
+  -38.5236
+
+Values to write down:
+After iteration 2:
+   -9.2165
+   -8.3486
+
+After iteration 5:
+  -23.5653
+  -18.6448
+
+True solution (sqrt(3), sqrt(7)):
+    1.7321
+    2.6458
+
+Difference between final xvect and true solution:
+  -54.9298
+  -41.1694

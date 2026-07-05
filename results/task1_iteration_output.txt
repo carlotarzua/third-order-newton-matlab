@@ -1,0 +1,55 @@
+xvect =
+
+    -1
+     1
+    -1
+
+at iteration 1, we have [x, y, z] =
+    1.1105
+    2.6810
+    1.4024
+
+at iteration 2, we have [x, y, z] =
+    2.4736
+    3.6808
+    2.8837
+
+at iteration 3, we have [x, y, z] =
+    2.4052
+    3.3727
+    3.5043
+
+at iteration 4, we have [x, y, z] =
+    2.4309
+    3.1470
+    3.5717
+
+at iteration 5, we have [x, y, z] =
+    2.4313
+    3.0099
+    3.5689
+
+at iteration 6, we have [x, y, z] =
+    2.4317
+    3.0000
+    3.5683
+
+at iteration 7, we have [x, y, z] =
+    2.4317
+    3.0000
+    3.5683
+
+at iteration 8, we have [x, y, z] =
+    2.4317
+    3.0000
+    3.5683
+
+at iteration 9, we have [x, y, z] =
+    2.4317
+    3.0000
+    3.5683
+
+at iteration 10, we have [x, y, z] =
+    2.4317
+    3.0000
+    3.5683
