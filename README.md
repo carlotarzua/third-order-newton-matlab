@@ -18,7 +18,7 @@ This project applies a research-based numerical algorithm to optimization and re
 
 ## Why this project is useful
 
-This is a portfolio-friendly project because it demonstrates:
+This project is useful because it demonstrates:
 
 - numerical methods for nonlinear systems,
 - optimization using gradients and Jacobian matrices,
